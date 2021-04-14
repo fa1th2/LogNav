@@ -10,6 +10,10 @@
     <!-- <string name="back4app_client_key" translatable="false"> Your client key here </string> -->
     <string name="back4app_client_key">CLIENT_KEY</string>
 
+    <string name="message_hint">Say anything</string> <!-- added for codepath chat -->
+    <string name="send">Send</string>  <!-- added for codepath chat -->
 
+    <string name="profile_me">My Profile Pic</string> <!-- added for codepath chat (incoming & outgoing messages -->
+    <string name="profile_other">Other profile pic</string> <!-- added for codepath chat (incoming & outgoing messages -->
 </resources>
 

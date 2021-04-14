@@ -12,7 +12,9 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.bottomnav.R;
+import com.example.android_user_registration.R;
+
+// import com.example.bottomnav.R;
 
 public class NotificationsFragment extends Fragment {
 

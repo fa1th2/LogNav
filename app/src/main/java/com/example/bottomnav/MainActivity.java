@@ -2,6 +2,7 @@ package com.example.bottomnav;
 
 import android.os.Bundle;
 
+import com.example.android_user_registration.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;

@@ -7,7 +7,7 @@ import com.parse.ParseObject;
 
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
-
+/*
 public class ChatApplication extends Application {
 
     @Override
@@ -33,12 +33,6 @@ public class ChatApplication extends Application {
                 .server("https://parseapi.back4app.com").build());
 
 
-
-
-
-
-
-
-
     }
 }
+*/

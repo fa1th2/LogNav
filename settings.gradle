@@ -1,2 +1,4 @@
 include ':app'
-rootProject.name = "BottomNav"
+
+rootProject.name = "android_user_registration"
+ 

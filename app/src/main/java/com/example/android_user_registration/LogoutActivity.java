@@ -14,7 +14,7 @@ import com.parse.LogOutCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
 
-public class LogoutActivity extends AppCompatActivity {
+public class   LogoutActivity extends AppCompatActivity {
     Button logout;
     private ProgressDialog progressDialog;
 

@@ -124,7 +124,7 @@ public class ChatActivity extends AppCompatActivity {
 
                 Message message = new Message();
                 message.setBody(data);
-                message.setUserId(ParseUser.getCurrentUser().getObjectId());
+                message.setUserId(ParseUser.getCurrentUser().getUsername());
 
 
 
